@@ -1,0 +1,2 @@
+- [[Simpson's ⅓ Rule]]
+- [[Simpson's ⅜ Rule]]
