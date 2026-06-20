@@ -1,0 +1,4 @@
+- [[extrusion printing]]
+- [[polymerization printing]]
+- [[powder-base printing]]
+- [[droplet printing]]
