@@ -11,6 +11,10 @@ The measure of distribution of a member's cross-sectional area from its bending 
 
 $I$ for different cross-sections:
 [[I for a Rectangular Section]]
+[[I for a circular cross-section]]
+[[I for hollow symmetrical sections]]
+[[I for symmetrical cross-sections made up of rectangles and circles]]
+[[I for asymmetric sections]]
 
 It describes the bending stiffness of a member, and it is used when calculating [[buckling]] strength, beam/[[strut]] bending strength and beam deflection.
 
