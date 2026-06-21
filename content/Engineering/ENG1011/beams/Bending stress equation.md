@@ -4,7 +4,7 @@ aliases:
   - load-carrying capacity of a beam
   - load-carrying strength of a beam
 created: 2026-06-21T00:27:11.203+10:00
-modified: 2026-06-21T01:01:23.466+10:00
+modified: 2026-06-21T13:00:34.775+10:00
 ---
 
 Derived from the [[Simple Beam theory]].
@@ -17,7 +17,7 @@ Allows us to calculate the load-carrying capacity of the beam.
 > $$
 >
 > where:
-> $\sigma=$ the bending stress (MPa (N/mm$^2$))
+> $\sigma=$ the bending stress (Pa (N/mm$^2$))
 > $I=$ the [[Second moment of Area (I)- moment of inertia]]
 > $y=$ the distance from the [[neutral axis]]
 > $M=$ the internal [[load (w), shear force (V), and bending moment (M)|bending moment]] in the [[beam]]

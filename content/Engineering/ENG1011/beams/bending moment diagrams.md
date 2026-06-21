@@ -3,19 +3,23 @@ publish: true
 aliases:
   - BMD
 created: 2026-06-20T22:41:15.955+10:00
-modified: 2026-06-20T23:22:20.700+10:00
+modified: 2026-06-21T12:32:43.201+10:00
 ---
 
 > [!NOTE] BMDs
 > A BMD is a plot of the cumulative [[bending]] moments, $\sum M_{z}$, as a function of the distance along the [[beam]].
 
-> [!NOTE] General steps for finding SFDs using FBDs
+> [!NOTE] General steps for finding BMDs using FBDs
 >
 > Step 1: Use [[equilibrium of a rigid body|equations of equilibrium]] to find the reactions
 > Step 2: Create an [[Free-body diagrams|FBD]], cutting the beam at the point you want the value of M. Consider equilibrium, $\sum M_{z}=0$ and solve for M.
 > The more general case is to cut the beam at an arbitrary distance $x$
 
-> [!NOTE] General steps for finding SFDs without FBDs
+> [!NOTE] General steps for finding BMDs without FBDs
+>
+> BMDs are the negative [[Fundamental Theorem of Calculus|integral]] of [[shear force diagrams|SFDs]].
+> Bending moment at the tip of a cantilever is 0.
+> Bending moment at a fixed support is always opposite and equal to the reaction load.
 >
 > 1. Always plot the moment on the side of the beam that is in tension.
 >    When we have a positive moment, the side in tension would be the bottom of the beam.

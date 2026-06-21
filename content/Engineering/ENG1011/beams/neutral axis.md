@@ -34,6 +34,8 @@
 
 bottom of section
 
+##### Step 2: sub into equation
+
 $$
 y_{c}=\frac{{200\times 20 \times 510+500 \times 10 \times 250}}{200 \times 20 + 500 \times 10}=365.5\text{ mm}
 $$

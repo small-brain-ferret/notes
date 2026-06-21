@@ -5,7 +5,7 @@ aliases:
   - design for axial tension deflection
   - design for axial tension formation
 created: 2026-05-23T21:46:42.210+10:00
-modified: 2026-06-19T16:49:49.345+10:00
+modified: 2026-06-21T13:02:36.358+10:00
 ---
 
 See [[Serviceability Limit State]].
