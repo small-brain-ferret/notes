@@ -264,7 +264,8 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: 80s-neon
+      mode: both
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
