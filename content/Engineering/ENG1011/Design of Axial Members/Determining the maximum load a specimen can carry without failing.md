@@ -1,4 +1,4 @@
-See [[Axial tension strength design]].
+See [[design for axial tension strength]].
 
 # Example 1
 

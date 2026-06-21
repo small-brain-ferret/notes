@@ -1,4 +1,4 @@
-Engineering systems are subject to physical constraints and [[Uncertainties in design]], meaning values have as much [[precision]] as the measurement methods allow.
+Engineering systems are subject to physical constraints and [[uncertainties in design]], meaning values have as much [[precision]] as the measurement methods allow.
 
 eg. A steel component's length is not an exact number, but depends on measurement [[accuracy]]. May shift due to environmental factors.
 
