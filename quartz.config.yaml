@@ -264,7 +264,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: 80s-neon
+      theme: kakano.pink
       mode: both
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
