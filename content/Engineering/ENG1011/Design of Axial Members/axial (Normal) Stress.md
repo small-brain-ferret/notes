@@ -1,6 +1,6 @@
 [[stress]].
 
-> [!NOTE] Definition
+> [!NOTE] axial (normal) stress
 >
 > $$
 > \sigma_{\text{axial}}=\frac{P}{A}
@@ -9,7 +9,7 @@
 > Where
 > A = cross sectional area experience normal force & stress.
 >
-> ![[Attachments/Screenshot 2026-05-23 at 21.29.46.png]]
+> ![[Attachments/Screenshot 2026-05-23 at 21.29.46.png|250]]
 > Load per unit area.
 > Stress is the Intensity of Force (ie. Force/Area)
 >

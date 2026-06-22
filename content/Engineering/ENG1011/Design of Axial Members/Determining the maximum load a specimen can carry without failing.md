@@ -1,6 +1,6 @@
 See [[design for axial tension strength]].
 
-# Example 1
+# Example - limiting yield strength design
 
 If $\sigma_{y}=250$ MPa ([[yield stress]]), what is the maximum load a 10mm x 10mm square bar can carry without failing? Assume a [[Factor of safety]] of 1.25.
 

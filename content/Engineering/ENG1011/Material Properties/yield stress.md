@@ -4,12 +4,12 @@ aliases:
   - fracture stress
   - yield strength
 created: 2026-05-23T18:27:45.328+10:00
-modified: 2026-06-19T14:58:44.823+10:00
+modified: 2026-06-22T10:55:09.221+10:00
 ---
 
 An important [[material property]].
 
-> [!NOTE] Definition
+> [!NOTE] yield stress
 > $\sigma_{y}$ is the stress at which permanent deformation occurs.
 >
 > At this point, there is permanent deformation in the specimen.

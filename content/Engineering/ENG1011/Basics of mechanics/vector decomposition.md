@@ -1,9 +1,9 @@
 Useful for analysing [[Resultant (net) force]].
 
-> [!NOTE]
+> [!NOTE] Vector decomposition
 > A [[Vector(s)]] can be decomposed into rectangular (orthogonal) components along the $x$ and $y$ axes.
 >
-> ![[Attachments/Screenshot 2026-06-11 at 12.24.49.png]]
+> ![[Attachments/Screenshot 2026-06-11 at 12.24.49.png|250]]
 >
 > $$
 > \begin{align}
@@ -15,7 +15,7 @@ Useful for analysing [[Resultant (net) force]].
 
 The components of the [[Resultant (net) force]] can be determined via the additions for the respective components.
 
-> [!NOTE]
+> [!NOTE] Resultant net force
 >
 > $$
 > \begin{align}

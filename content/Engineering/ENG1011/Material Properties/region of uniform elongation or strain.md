@@ -2,7 +2,7 @@ $\epsilon_{\text{uniform}}$, Important for metal shaping.
 
 ![[Attachments/Screenshot 2026-05-23 at 20.28.10.png|374]]
 
-> [!NOTE] Observations
+> [!NOTE] region of uniform elongation/strain
 > In the elastic region, it will elongate uniformly.
 >
 > As we go past [[yield stress]], it will continue to uniformly elongate (ie. changing dimensions equally across the sample).

@@ -3,12 +3,12 @@ publish: true
 aliases:
   - UTS
 created: 2026-05-23T20:20:27.283+10:00
-modified: 2026-06-18T13:19:55.983+10:00
+modified: 2026-06-22T10:57:32.813+10:00
 ---
 
 An important [[material property]].
 
-> [!NOTE] Definition
+> [!NOTE] UTS
 > $\sigma_{TS}$ is the maximum in a nominal [[stress-strain graphs]] curve.
 >
 > This is the maximum [[stress]] that can be sustained by a structure without fracture occuring.

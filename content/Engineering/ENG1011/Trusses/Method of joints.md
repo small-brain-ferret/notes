@@ -3,15 +3,15 @@ publish: true
 aliases:
   - method of joints
 created: 2026-04-16T08:21:01.621+10:00
-modified: 2026-06-18T11:10:37.026+10:00
+modified: 2026-06-22T09:21:35.113+10:00
 ---
 
 > [!NOTE]
 > A truss in equilibrium will mean each of its joints is also in equilibrium.
 >
-> As such, we can analyse free-body diagrams of each joint ([[particle]]) using equilibrium equations $\sum F_x =0$ and $\sum F_y =0$.
+> As such, we can analyse free-body diagrams of each joint ([[particle models|particle]]) using equilibrium equations $\sum F_x =0$ and $\sum F_y =0$.
 
-> [!NOTE] General solution steps
+> [!NOTE] General steps for method of joints
 >
 > 1. Draw the [[Free-body diagrams|FBD]] of a joint having at least one known force and at most two unknown forces
 >    if this joint is a [[Supports|support]], then the reaction may need to be calculated first

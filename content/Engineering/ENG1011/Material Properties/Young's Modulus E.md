@@ -3,12 +3,12 @@ publish: true
 aliases:
   - Modulus of Elasticity
 created: 2026-05-23T18:22:43.239+10:00
-modified: 2026-06-18T13:18:21.048+10:00
+modified: 2026-06-22T10:53:26.718+10:00
 ---
 
 An important [[material property]].
 
-> [!NOTE] Definition
+> [!NOTE] young's modulus E
 > A material property that measures the stiffness or elasticity of a material
 >
 > $$

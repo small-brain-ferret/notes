@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!NOTE] bond energy
 > Bond energy describes the interaction between two atoms as a function of the distance between them.
 >
 > - negative energy is attractive

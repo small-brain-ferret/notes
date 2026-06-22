@@ -4,10 +4,10 @@ aliases:
   - strain hardening
   - cold working
 created: 2026-06-19T15:04:26.920+10:00
-modified: 2026-06-19T15:24:26.440+10:00
+modified: 2026-06-22T11:35:38.350+10:00
 ---
 
-> [!NOTE]
+> [!NOTE] work hardening
 > During [[plastic deformation at an atomic level|plastic deformation]], or as we enter the [[plastic region]], the number of [[dislocations]] dramatically increases. This process is called work hardening.
 >
 > The distance between dislocations decreases. Dislocation density increases.

@@ -9,9 +9,9 @@ Generally, the FBD does not cut through more than 3 members (i.e. 3 unknowns) si
 
 We should be able to apply [[equilibrium of a rigid body|equations of equilibrium]] to solve for unknown forces.
 
-> [!NOTE] General solution steps
+> [!NOTE] General steps for method of sections
 >
-> 1. Carefully deciding how to cut or section the truss using an FBD
+> 1. draw an FBD that cuts through 3 or less members
 > 2. Determine the support reactions if they are involved in the FBD
 > 3. Define a coordinate system that is convenient for analysis
 > 4. apply the equilibrium equations to determine the unknown forces

@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!NOTE] polymers
 > Long chains, typically long carbon backbones.
 >
 > A repeat structure made of many units.

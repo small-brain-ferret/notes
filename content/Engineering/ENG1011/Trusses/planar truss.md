@@ -5,7 +5,7 @@ aliases:
   - truss
   - trusses
 created: 2026-06-17T15:55:54.497+10:00
-modified: 2026-06-18T10:43:42.252+10:00
+modified: 2026-06-22T09:24:19.013+10:00
 ---
 
 > [!NOTE]
@@ -40,8 +40,8 @@ The truss' determinacy can be evaluated by counting the number of two-force memb
 
 - A statically determinate truss obeys $m+r=2j$
 - A statically indeterminate truss will follow $m+r>2j$ (Excess members or reactions)
-
-![[Engineering/ENG1011/Trusses/images/Screenshot 2026-04-16 at 08.12.40.png]]
+- Check stability. If stable, check determinacy.
+  ![[Engineering/ENG1011/Trusses/images/Screenshot 2026-04-16 at 08.12.40.png]]
 
 ![[Engineering/ENG1011/Trusses/images/Screenshot 2026-04-16 at 08.13.21.png]]
 ![[Engineering/ENG1011/Trusses/images/Screenshot 2026-04-16 at 08.14.05.png]]

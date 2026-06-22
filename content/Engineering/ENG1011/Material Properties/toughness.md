@@ -1,6 +1,6 @@
 A [[material property]].
 
-> [!NOTE] Definition
+> [!NOTE] toughness
 > The amount of work done (per unit volume) in breaking the material
 >
 > Units are J/m$^3$

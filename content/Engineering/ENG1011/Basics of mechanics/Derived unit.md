@@ -4,10 +4,10 @@ aliases:
   - derived unit
   - derived units
 created: 2026-06-11T11:12:21.999+10:00
-modified: 2026-06-11T15:11:15.215+10:00
+modified: 2026-06-22T08:59:58.524+10:00
 ---
 
-> [!NOTE]
+> [!NOTE] Derived unit
 > Derived units in the SI are formed by powers, products, or quotients of the [[SI base units]].
 >
 > eg.

@@ -5,8 +5,10 @@ aliases:
   - FFF
   - filament fused fabrication
 created: 2026-06-18T22:01:01.542+10:00
-modified: 2026-06-18T22:15:52.975+10:00
+modified: 2026-06-22T11:24:28.247+10:00
 ---
+
+# Fuse deposition modelling (FFF, FDM, filament fused fabrication)
 
 A type of [[extrusion printing]].
 

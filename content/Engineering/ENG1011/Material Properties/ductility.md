@@ -1,4 +1,4 @@
-> [!NOTE] Definition
+> [!NOTE] ductility
 > The amount of plastic [[strain]] that occurs in the sample, after [[fracture point]], is known as ductility.
 
 > [!NOTE] Formula

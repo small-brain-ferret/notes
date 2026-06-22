@@ -3,7 +3,7 @@ publish: true
 aliases:
   - zero-force member
 created: 2026-06-18T11:12:01.412+10:00
-modified: 2026-06-18T12:03:52.372+10:00
+modified: 2026-06-22T11:09:50.167+10:00
 ---
 
 > [!NOTE] criterium
@@ -12,10 +12,10 @@ modified: 2026-06-18T12:03:52.372+10:00
 > - provide rigidity and [[stability of systems|stability]] to the overall system by reducing deflection or [[buckling]]
 > - simplify analysis if they are identified (reduces number of unknowns)
 
-> [!NOTE] Rule 1
+> [!NOTE] Rule 1 - zero force member
 > If only 2 non-colinear members form a [[planar truss|truss]] joint, and no external load or [[Supports|support]] reaction is applied to the joint, then the two members must be zero-force.
 >
-> ![[Attachments/Screenshot 2026-06-18 at 11.19.09.png]]
+> ![[Attachments/Screenshot 2026-06-18 at 11.19.09.png|200]]
 > ![[Attachments/Screenshot 2026-06-18 at 11.19.32.png]]
 > ![[Attachments/Screenshot 2026-06-18 at 11.45.56.png]]
 

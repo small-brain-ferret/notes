@@ -8,9 +8,9 @@ A type of [[atomic bonding]].
 An extended network of covalent bonds constructs [[network covalent material]].
 
 > [!NOTE] Properties
-> Ionic bonds generally have high [[bond energy]].
+> covalent bonds generally have high [[bond energy]].
 >
-> Materials dominated by ionic bonding commonly have:
+> Materials dominated by covalent bonding commonly have:
 >
 > - high [[Young's Modulus E]] (stiffer)
 > - high strength

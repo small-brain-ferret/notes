@@ -1,7 +1,7 @@
 A [[Mechanical property]].
 See [[stress-strain graphs]].
 
-> [!NOTE] Definition
+> [!NOTE] strain
 > Linear deformation per unit length.
 > BUT
 > Strain is a dimensionless quantity! (It has no units)
@@ -15,7 +15,7 @@ See [[stress-strain graphs]].
 
 The change in length over the original length.
 
-> [!NOTE] Formula
+> [!NOTE] engineering (nominal) strain
 > ![[Attachments/Screenshot 2026-05-23 at 18.10.01.png]]
 >
 > $$

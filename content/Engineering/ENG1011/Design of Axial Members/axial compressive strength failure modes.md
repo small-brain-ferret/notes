@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!NOTE] compressive strength failure modes
 > when a member experiences axial compression loading, it may fail well below its [[squash load]] of $\sigma_{y}A$ by the phenomenon of [[buckling]].
 >
 > ![[Attachments/Screenshot 2026-06-20 at 14.05.49.png]]

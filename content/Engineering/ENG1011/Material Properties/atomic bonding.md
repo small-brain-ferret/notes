@@ -11,7 +11,7 @@ Different classes of materials have very different [[Young's Modulus E]] because
 |Polymers|Low|
 |Elastomers|Very low|
 
-> [!NOTE]
+> [!NOTE] atomic bonding x [[Young's Modulus E]]
 > Differences in [[Young's Modulus E]] between material classes are largely caused by differences in the **strength of their atomic bonding**.
 
 The four main types of bonding are:

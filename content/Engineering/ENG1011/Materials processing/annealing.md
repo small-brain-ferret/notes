@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!NOTE] annealing
 > Recover the [[ductility]] of a metal, reversing [[work hardening]].
 >
 > This reversal doesn't change the shape.

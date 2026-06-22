@@ -6,10 +6,10 @@ aliases:
   - moment
   - torque
 created: 2026-06-16T18:22:57.512+10:00
-modified: 2026-06-16T20:32:45.061+10:00
+modified: 2026-06-22T09:09:46.655+10:00
 ---
 
-> [!NOTE] Definition
+> [!NOTE] Moment
 > When a [[force]] is applied to a body, it will produce a tendency for the body to rotate about a point that is not on the line of action of the force.
 >
 > This tendency to rotate is often referred to as a moment (or torque).
