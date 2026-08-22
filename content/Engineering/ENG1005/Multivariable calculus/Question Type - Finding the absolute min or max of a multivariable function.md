@@ -5,7 +5,7 @@ See [[Absolute maxima and minima of functions]].
 
 What are the absolute maximum and minimum of $f(x,y)=-(x^2-1)(y^2-1)$ on the domain $|x|<2$, $|y|<2$.
 
-Step 1: Find the critical points (see [[Question Type - Finding critical points of a multivariable function]] example 2)
+Step 1: Find the critical points (see [[Question Type - Finding critical points of a multivariable function (unconstrained optimisation)]] example 2)
 
 Step 2: Characterise the critical points
 [[Use of the Hessian in characterising Critical points]]

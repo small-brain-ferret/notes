@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!NOTE] neutral axis
 > The line on the section where the [[strain]] and [[stress]] is zero.
 >
 > ![[Attachments/Screenshot 2026-06-21 at 00.25.33.png]]

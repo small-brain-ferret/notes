@@ -5,13 +5,20 @@ These tell us information about [[The gradient - nabla f]] of a slice of a MVF i
 > The slope of a function $f(x,y)$ in the direction of a unit vector $\hat{u}$ at a point $x=x_0$ is called the **directional derivative**.
 >
 > $$
-> \frac{\partial f}{\partial u}=\hat{u}\cdot\nabla f\Big|_{x=x_0}
+> \begin{align}
+> \frac{\partial f}{\partial u} & =\mathbf{\hat{u}}\cdot\nabla f\Big|_{x=x_0} \\ \\
+>
+> D_{\mathbf{u}}f & =\nabla f \cdot \hat{\mathbf{u}}
+> \end{align}
 > $$
 >
-> where the gradient of f is
+> where the gradient vector, of f is
 >
 > $$
-> \nabla f=\begin{pmatrix}\frac{\partial f}{\partial x}\\\frac{\partial f}{\partial y}\end{pmatrix}
+> \nabla f=\begin{pmatrix}\frac{\partial f}{\partial x}\\\frac{\partial f}{\partial y}\end{pmatrix}=\begin{pmatrix}
+> f_{x} \\
+> f_{y}
+> \end{pmatrix}
 > $$
 >
 > and the dot product expands to

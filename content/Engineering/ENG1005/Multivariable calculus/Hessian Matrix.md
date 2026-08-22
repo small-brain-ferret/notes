@@ -1,5 +1,7 @@
 An important tool for [[Characterising critical points]]. See [[Use of the Hessian in characterising Critical points]].
 
+The determinant of this matrix is the discriminant of the function.
+
 The second directional derivative can be written in matrix form using the Hessian matrix.
 
 Starting from:

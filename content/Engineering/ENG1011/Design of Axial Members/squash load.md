@@ -2,5 +2,8 @@
 > The most load a section can carry in compression:
 >
 > $$
-> \text{squash load}=P_{\text{squash}}=\sigma_{y}A
+> \begin{align}
+> \text{squash load} & =P_{\text{squash}} \\
+>  & =\sigma_{y}A
+> \end{align}
 > $$

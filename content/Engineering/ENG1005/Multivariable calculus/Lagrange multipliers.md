@@ -1,4 +1,4 @@
-Used for finding maxima and minima subject to constraints. Used for finding [[Absolute maxima and minima of functions]] with less work. See [[Question Type - Finding min or max of a 2 variable function subject to a constraint UNFINISHED]]
+Used for finding maxima and minima subject to constraints. Used for finding [[Absolute maxima and minima of functions]] with less work. See [[Question Type - constrained optimisation UNFINISHED]]
 
 ![[Attachments/Pasted image 20260506055700.png]]
 

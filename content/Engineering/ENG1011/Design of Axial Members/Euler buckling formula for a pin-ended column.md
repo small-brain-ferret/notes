@@ -17,7 +17,7 @@ Derived from the [[Euler-Bernoulli Beam Bending equation]].
 > I: [[Second moment of Area (I)- moment of inertia]]
 > P: axial load
 > L: member length
-> ![[Attachments/Screenshot 2026-06-20 at 07.42.51.png]]
+> ![[Attachments/Screenshot 2026-06-20 at 07.42.51.png|200]]
 >
 > [[Dimensional homogeneity]]:
 >

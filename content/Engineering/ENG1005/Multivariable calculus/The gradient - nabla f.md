@@ -5,7 +5,9 @@ Useful for finding [[Tangent planes]] and [[Critical points]].
 > [!NOTE] Definition
 >
 > $$
-> \nabla f=\begin{pmatrix}\frac{\partial f}{\partial x}\\\frac{\partial f}{\partial y}\end{pmatrix}
+> \nabla f=\begin{pmatrix}\frac{\partial f}{\partial x}\\\frac{\partial f}{\partial y}\end{pmatrix}=\begin{pmatrix}
+> {f_{x}(a,b)}\\{f_{y}(a,b)}
+> \end{pmatrix}
 > $$
 
 > [!NOTE] NOTE

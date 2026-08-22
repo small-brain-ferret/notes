@@ -38,3 +38,12 @@ $$
   & =2xye^{x^2y}\cos(x+y)+e^{x^2y}(-\sin(x+y))
 \end{align}
 $$
+
+# Mr Fang's example
+
+![[Attachments/Screenshot 2026-08-20 at 09.10.46.png]]
+When there's a mixed partial derivative, look for non-single-variable expressions - these will not disappear. the rest will.
+
+$$
+f_{yx}=(e^{2y}\ln(x))_{yx}-\frac{2e^{2y}}{x}
+$$
