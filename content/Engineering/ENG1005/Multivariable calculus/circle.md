@@ -19,3 +19,12 @@ Properties:
 
 - centre: $(1,-1)$
 - radius: $4$
+
+> [!NOTE] [[polar curves]]
+> $r=a\cos \theta$
+> Where $a>0$ is a constant.
+> Can be derived by multiplying both sides by $r$ and completing the square.
+
+> [!NOTE] circle vs disc
+> circle is the boundary, disc is the filled interior
+> i.e. area enclosed by a circle, area of the disc
