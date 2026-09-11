@@ -19,7 +19,7 @@ $$
 \left( \frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}} \right)V_{b}=\frac{1}{R_{1}}V_{S_{1}}+\frac{1}{R_{3}}V_{S_{2}}
 $$
 
-Taking $G_{1}=\frac{1}{R_{1}}$, $G_{2}=\frac{1}{R_{2}}$, $G_{1}=\frac{3}{R_{3}}$, solving for node voltage at B:
+Taking $G_{1}=\frac{1}{R_{1}}$, $G_{2}=\frac{1}{R_{2}}$, $G_{3}=\frac{3}{R_{3}}$, solving for node voltage at B:
 
 $$
 V_{b}=\frac{G_{1}}{G_{1}+G_{2}+G_{3}}V_{S_{1}}+\frac{G_{3}}{G_{1}+G_{2}+G_{3}}V_{S_{2}}

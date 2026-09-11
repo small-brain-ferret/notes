@@ -11,7 +11,7 @@
 > ![[Attachments/Pasted image 20260911223548.png|300]]
 >
 > $$
-> R_{Th} = (2 \text{ k}\Omega )||(3 \text{ k}\Omega )=1.2(2 \text{ k}\Omega )
+> R_{Th} = (2 \text{ k}\Omega )||(3 \text{ k}\Omega )=1.2\text{ k}\Omega 
 > $$
 
 > [!NOTE] Finding the Thevenin equivalent - method 1
